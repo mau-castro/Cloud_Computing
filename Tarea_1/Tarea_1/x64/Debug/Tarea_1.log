@@ -1,0 +1,8 @@
+﻿  paralelo_openmp.cpp
+C:\Users\LmCas\source\repos\Maestria\Tarea_1\Tarea_1\paralelo_openmp.cpp(24,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/paralelo_openmp.cpp')
+  
+C:\Users\LmCas\source\repos\Maestria\Tarea_1\Tarea_1\paralelo_openmp.cpp(25,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/paralelo_openmp.cpp')
+  
+  Tarea_1.vcxproj -> C:\Users\LmCas\source\repos\Maestria\Tarea_1\x64\Debug\Tarea_1.exe
